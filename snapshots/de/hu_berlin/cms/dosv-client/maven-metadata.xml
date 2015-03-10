@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.hu_berlin.cms</groupId>
+  <artifactId>dosv-client</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150310143615</lastUpdated>
+  </versioning>
+</metadata>
